@@ -1,0 +1,8 @@
+{
+  "name": "forge-ursa-compat",
+  "version": "0.0.1",
+  "description": "URSA API backed with forge javascript RSA",
+  "dependencies": {
+    "node-forge": "0.2.x"
+  }
+}
